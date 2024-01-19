@@ -13,11 +13,11 @@
 ```bash
 git clone https://github.com/daniivaaleera/ingenieria-informatica-wiki.git
 ```
-  3. Navega al directorio del repositorio.
+  2. Navega al directorio del repositorio.
   ```bash
 cd WikiFium
 ```
-  5. Abre el archivo "index.html" en tu navegador para explorar la Wiki localmente.
+  3. Abre el archivo "index.html" en tu navegador para explorar la Wiki localmente.
 
 # Soporte y Comunidad
 Si tienes preguntas, sugerencias, o quieres apoyar a la Wiki, visita nuestro Discord.
