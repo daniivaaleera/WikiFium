@@ -10,10 +10,12 @@
 
 # Como Iniciar (Local):
   1. Clona este repositorio a tu máquina local
-  ```git clone https://github.com/daniivaaleera/ingenieria-informatica-wiki.git```
-  2. Navega al directorio del repositorio.
+```bash
+git clone https://github.com/daniivaaleera/ingenieria-informatica-wiki.git
+```
+  3. Navega al directorio del repositorio.
   ```cd WikiFium```
-  3. Abre el archivo "index.html" en tu navegador para explorar la Wiki localmente.
+  4. Abre el archivo "index.html" en tu navegador para explorar la Wiki localmente.
 
 # Soporte y Comunidad
 Si tienes preguntas, sugerencias, o quieres apoyar a la Wiki, visita nuestro Discord.
